@@ -1,0 +1,12 @@
+{
+  "name": "coc-backend-proz",
+  "version": "1.0.0",
+  "description": "backend proz",
+  "license": "ISC",
+  "author": "aditya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
